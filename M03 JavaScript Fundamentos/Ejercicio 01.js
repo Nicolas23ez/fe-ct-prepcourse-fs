@@ -6,7 +6,7 @@
 
 // Crea una variable de tipo string.
 const nuevoString = null;
-// Caklsjdlkjasd 
+
 // Crea una variable de tipo number.
 const nuevoNumero = null;
 
